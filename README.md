@@ -1,8 +1,7 @@
 # IBIEM Communication
-You are always welcome to ask questions before, during, and after class or make an appointment with any of the IBIEM Staff.  Here are guidelines for 
+You are always welcome to ask questions before, during, and after class or make an appointment with any of the IBIEM Staff.  Here are guidelines for electronic communication:
 
-
-1. Technical questions and discussion for the course should be posted to the [**Issues** part of the IBIEM/community repository](https://github.com/IBIEM/community/issues) on GithubExamples includes questions about R, Github, submitting assignments, problems with the IBIEM computing environment, and answers to your own questions.  Note that this is a public repository, so don't post anything you don't want the *whole Internet* to see, but also remember that if you have a technical question, you are probably not the only one.  See [Posting an Issue](#posting-an-issue) below for details.
+1. Technical questions and discussion for the course should be posted to the [**Issues** part of the IBIEM/community repository](https://github.com/IBIEM/community/issues) on Github.  Examples include questions about R, Github, submitting assignments, problems with the IBIEM computing environment, and answers to your own questions.  Note that this is a public repository, so don't post anything you don't want the *whole Internet* to see, but also remember that if you have a technical question, you are probably not the only one.  See [Posting an Issue](#posting-an-issue) below for details.
 
 2. Non-technical questions for the whole IBIEM Staff (Claudia, Glenda, Josh, Xin, Alex, Kristen, Eluka, Scott), should be sent to the **ibieminstructors** mailing list: [email address redacted].
 
