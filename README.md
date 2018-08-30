@@ -1,14 +1,13 @@
 # IBIEM Communication
 
-1. Technical questions and discussion for the course should be posted to the [*Issues* part of the IBIEM/community repository](https://github.com/IBIEM/community/issues) on Github.  Examples includes questions about R, Github, submitting assignments, problems with the IBIEM computing environment, and answers to your own questions.  Note that this is a public repository, so don't post anything you don't want the Internet to see, but also remember that if you have a technical question, you are probably not the only one.
-
+1. Technical questions and discussion for the course should be posted to the [*Issues* part of the IBIEM/community repository](https://github.com/IBIEM/community/issues) on GithubExamples includes questions about R, Github, submitting assignments, problems with the IBIEM computing environment, and answers to your own questions.  Note that this is a public repository, so don't post anything you don't want the Internet to see, but also remember that if you have a technical question, you are probably not the only one.  Eee [Posting an Issue](#posting-an-issue) below for details.
 2. Non-technical questions for the whole IBIEM Staff (Claudia, Glenda, Josh, Xin, Alex, Kristen, Eluka, Scott), should be sent to the *ibieminstructors* mailing list: [email address redacted].
 
 3. For questions directed at specific IBIEM Staff or private matters, email the relevant individual(s) directly.
 
 
 ## Posting an Issue
-To access *Issues* click on the *Issues* tab above (the one between *Code* and *Pull requests*, not the Issues link at the very top of the page.  Or click [here](https://github.com/IBIEM/community/issues).
+To access *Issues* click [here](https://github.com/IBIEM/community/issues) or on the *Issues* tab above (the one between *Code* and *Pull requests*, not the Issues link at the very top of the page).
 
 To start a new thread, create a new issue. Tag your peers using their handle—@granek, for example—to get their attention.
 
@@ -16,7 +15,7 @@ Once a question is answered, the issue will be closed, so lots of good answers m
 
 You can also use the "Search" feature on this repository to find things.
 
-Guidelines for posting questions:
+### Guidelines for posting questions
 
 - First search existing issues (open or closed) for answers. If the question has already been answered, you're done! If there is an open issue, feel free to contribute to it. Or feel free to open a closed issue if you believe the answer is not satisfactory.
 - Give your issue an informative title.
