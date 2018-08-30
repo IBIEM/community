@@ -1,6 +1,6 @@
 # IBIEM Communication
 
-1. Technical questions and discussion for the course should be posted to the [*Issues* part of the IBIEM/community repository](https://github.com/IBIEM/community/issues) on GithubExamples includes questions about R, Github, submitting assignments, problems with the IBIEM computing environment, and answers to your own questions.  Note that this is a public repository, so don't post anything you don't want the Internet to see, but also remember that if you have a technical question, you are probably not the only one.  Eee [Posting an Issue](#posting-an-issue) below for details.
+1. Technical questions and discussion for the course should be posted to the [*Issues* part of the IBIEM/community repository](https://github.com/IBIEM/community/issues) on GithubExamples includes questions about R, Github, submitting assignments, problems with the IBIEM computing environment, and answers to your own questions.  Note that this is a public repository, so don't post anything you don't want the Internet to see, but also remember that if you have a technical question, you are probably not the only one.  See [Posting an Issue](#posting-an-issue) below for details.
 2. Non-technical questions for the whole IBIEM Staff (Claudia, Glenda, Josh, Xin, Alex, Kristen, Eluka, Scott), should be sent to the *ibieminstructors* mailing list: [email address redacted].
 
 3. For questions directed at specific IBIEM Staff or private matters, email the relevant individual(s) directly.
